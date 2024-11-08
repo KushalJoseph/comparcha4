@@ -1,0 +1,32 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.0.0.2
+gem5 compiled Oct 18 2022 00:41:42
+gem5 started Nov  7 2024 12:19:24
+gem5 executing on e5-cse-135-28.cse.psu.edu, pid 774524
+command line: /home/other/CSE530-FA2022/gem5/build_a4/build/X86/gem5.opt --outdir=rob/m5out_Bubblesort_superhard --redirect-stdout --redirect-stderr cse530_a4_sys_config.py --cse530-core-config=superhard --binfile=benchmarks/stanford/Bubblesort --l1i_size 4kB --l1d_size 4kB --l2_size 32kB
+
+Global frequency set at 1000000000000 ticks per second
+Beginning simulation!
+Error3 in Bubble.
+-27104
+Error3 in Bubble.
+-15986
+Error3 in Bubble.
+-15239
+Error3 in Bubble.
+-10769
+Error3 in Bubble.
+-8555
+Error3 in Bubble.
+-48454
+Error3 in Bubble.
+-44053
+Error3 in Bubble.
+2540
+Error3 in Bubble.
+14193
+Error3 in Bubble.
+-24666
+Exiting @ tick 2078628500 because exiting with last active thread context

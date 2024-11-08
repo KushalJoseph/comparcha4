@@ -1,0 +1,161 @@
+{
+    "pipeline_width": {
+        "m5out_Bubblesort_large": {
+            "simSeconds": 0.002052,
+            "system.cpu.ipc": 1.568618,
+            "system.cpu.issueRate": 2.653082,
+            "system.cpu.decode.blockedCycles": 1845899.0,
+            "system.cpu.fetch.icacheStallCycles": 1010315.0,
+            "system.cpu.commit.branchMispredicts": 5166.0,
+            "system.cpu.idleCycles": 208803.0
+        },
+        "m5out_Bubblesort_hard": {
+            "simSeconds": 0.002394,
+            "system.cpu.ipc": 1.344242,
+            "system.cpu.issueRate": 2.256414,
+            "system.cpu.decode.blockedCycles": 2084767.0,
+            "system.cpu.fetch.icacheStallCycles": 1000349.0,
+            "system.cpu.commit.branchMispredicts": 4922.0,
+            "system.cpu.idleCycles": 213832.0
+        },
+        "m5out_Bubblesort_soft": {
+            "simSeconds": 0.002797,
+            "system.cpu.ipc": 1.150681,
+            "system.cpu.issueRate": 1.927269,
+            "system.cpu.decode.blockedCycles": 2120199.0,
+            "system.cpu.fetch.icacheStallCycles": 990339.0,
+            "system.cpu.commit.branchMispredicts": 4825.0,
+            "system.cpu.idleCycles": 222430.0
+        },
+        "m5out_Bubblesort_small": {
+            "simSeconds": 0.003844,
+            "system.cpu.ipc": 0.837354,
+            "system.cpu.issueRate": 1.396853,
+            "system.cpu.decode.blockedCycles": 985489.0,
+            "system.cpu.fetch.icacheStallCycles": 980110.0,
+            "system.cpu.commit.branchMispredicts": 4688.0,
+            "system.cpu.idleCycles": 233161.0
+        }
+    },
+    "predictor": {
+        "m5out_Bubblesort_large": {
+            "simSeconds": 0.002052,
+            "system.cpu.ipc": 1.568618,
+            "system.cpu.issueRate": 2.653082,
+            "system.cpu.decode.blockedCycles": 1845899.0,
+            "system.cpu.fetch.icacheStallCycles": 1010315.0,
+            "system.cpu.commit.branchMispredicts": 5166.0,
+            "system.cpu.idleCycles": 208803.0
+        },
+        "m5out_Bubblesort_medium": {
+            "simSeconds": 0.002059,
+            "system.cpu.ipc": 1.562833,
+            "system.cpu.issueRate": 2.653623,
+            "system.cpu.decode.blockedCycles": 1845662.0,
+            "system.cpu.fetch.icacheStallCycles": 1021554.0,
+            "system.cpu.commit.branchMispredicts": 6757.0,
+            "system.cpu.idleCycles": 204765.0
+        },
+        "m5out_Bubblesort_hard": {
+            "simSeconds": 0.002057,
+            "system.cpu.ipc": 1.564961,
+            "system.cpu.issueRate": 2.651412,
+            "system.cpu.decode.blockedCycles": 1848747.0,
+            "system.cpu.fetch.icacheStallCycles": 1013784.0,
+            "system.cpu.commit.branchMispredicts": 5796.0,
+            "system.cpu.idleCycles": 207202.0
+        },
+        "m5out_Bubblesort_soft": {
+            "simSeconds": 0.002059,
+            "system.cpu.ipc": 1.562807,
+            "system.cpu.issueRate": 2.648358,
+            "system.cpu.decode.blockedCycles": 1854030.0,
+            "system.cpu.fetch.icacheStallCycles": 1013236.0,
+            "system.cpu.commit.branchMispredicts": 6026.0,
+            "system.cpu.idleCycles": 206066.0
+        }
+    },
+    "rob": {
+        "m5out_Bubblesort_ultrahard": {
+            "simSeconds": 0.002061,
+            "system.cpu.ipc": 1.561251,
+            "system.cpu.issueRate": 2.6389,
+            "system.cpu.decode.blockedCycles": 1863665.0,
+            "system.cpu.fetch.icacheStallCycles": 1010386.0,
+            "system.cpu.commit.branchMispredicts": 5202.0,
+            "system.cpu.idleCycles": 206614.0
+        },
+        "m5out_Bubblesort_supersoft": {
+            "simSeconds": 0.002645,
+            "system.cpu.ipc": 1.216617,
+            "system.cpu.issueRate": 2.036419,
+            "system.cpu.decode.blockedCycles": 3206348.0,
+            "system.cpu.fetch.icacheStallCycles": 996060.0,
+            "system.cpu.commit.branchMispredicts": 4648.0,
+            "system.cpu.idleCycles": 210830.0
+        },
+        "m5out_Bubblesort_large": {
+            "simSeconds": 0.002052,
+            "system.cpu.ipc": 1.568618,
+            "system.cpu.issueRate": 2.653082,
+            "system.cpu.decode.blockedCycles": 1845899.0,
+            "system.cpu.fetch.icacheStallCycles": 1010315.0,
+            "system.cpu.commit.branchMispredicts": 5166.0,
+            "system.cpu.idleCycles": 208803.0
+        },
+        "m5out_Bubblesort_medium": {
+            "simSeconds": 0.002104,
+            "system.cpu.ipc": 1.529579,
+            "system.cpu.issueRate": 2.574057,
+            "system.cpu.decode.blockedCycles": 2111009.0,
+            "system.cpu.fetch.icacheStallCycles": 1002795.0,
+            "system.cpu.commit.branchMispredicts": 4967.0,
+            "system.cpu.idleCycles": 210827.0
+        },
+        "m5out_Bubblesort_hard": {
+            "simSeconds": 0.002091,
+            "system.cpu.ipc": 1.539255,
+            "system.cpu.issueRate": 2.595559,
+            "system.cpu.decode.blockedCycles": 1978871.0,
+            "system.cpu.fetch.icacheStallCycles": 1007409.0,
+            "system.cpu.commit.branchMispredicts": 5080.0,
+            "system.cpu.idleCycles": 208064.0
+        },
+        "m5out_Bubblesort_soft": {
+            "simSeconds": 0.002138,
+            "system.cpu.ipc": 1.505391,
+            "system.cpu.issueRate": 2.52804,
+            "system.cpu.decode.blockedCycles": 2194078.0,
+            "system.cpu.fetch.icacheStallCycles": 1001263.0,
+            "system.cpu.commit.branchMispredicts": 4799.0,
+            "system.cpu.idleCycles": 212489.0
+        },
+        "m5out_Bubblesort_small": {
+            "simSeconds": 0.00439,
+            "system.cpu.ipc": 0.733133,
+            "system.cpu.issueRate": 1.221122,
+            "system.cpu.decode.blockedCycles": 6704903.0,
+            "system.cpu.fetch.icacheStallCycles": 992640.0,
+            "system.cpu.commit.branchMispredicts": 4258.0,
+            "system.cpu.idleCycles": 215036.0
+        },
+        "m5out_Bubblesort_ultrasoft": {
+            "simSeconds": 0.003476,
+            "system.cpu.ipc": 0.925865,
+            "system.cpu.issueRate": 1.544463,
+            "system.cpu.decode.blockedCycles": 4853112.0,
+            "system.cpu.fetch.icacheStallCycles": 992421.0,
+            "system.cpu.commit.branchMispredicts": 4332.0,
+            "system.cpu.idleCycles": 216233.0
+        },
+        "m5out_Bubblesort_superhard": {
+            "simSeconds": 0.002079,
+            "system.cpu.ipc": 1.548329,
+            "system.cpu.issueRate": 2.615053,
+            "system.cpu.decode.blockedCycles": 1949800.0,
+            "system.cpu.fetch.icacheStallCycles": 1008120.0,
+            "system.cpu.commit.branchMispredicts": 5142.0,
+            "system.cpu.idleCycles": 208045.0
+        }
+    }
+}

@@ -81,7 +81,6 @@ def createCPU(options, processes, system):
     #         {options.branch_predictor} branch_predictor")
     #     a4O3CPUConfig.initializeO3CPU(options, cpu)
 
-
     # Vary PIPELINE (ISSUE) WIDTH
     # if options.cse530_core_config=="large":
     #     options.cse530_issue_width = 8
